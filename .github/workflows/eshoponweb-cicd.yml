@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-ankur
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: b18715fb-6f2f-47f4-9b82-553c18aa0583
+  SUBSCRIPTION-ID: e7c745ed-f9f9-4253-a0f4-ad8c07b9aa06
   WEBAPP-NAME: az400-webapp-ankur1web
 
 
